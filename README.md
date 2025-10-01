@@ -1,10 +1,5 @@
 # AUTOMATE DETECTION OF DIFFERENT SENTIMENTS FROM TEXTUAL COMMENTS AND FEEDBACK
 
-If you want to see the final result this is the link: https://sentiment-analysis-of-reviews.herokuapp.com/
-
-NOTE: The Heroku app is presently unavailable. If you continue with the code and push it to Heroku, you will have a web app; otherwise, you may run it locally by executing the "app.py" file. 
-
-
 # Introduction
 
 - Automate detection of different sentiments from textual comments and feedback, A machine learning model is created to understand the sentiments of the restaurant reviews. The problem is that the review is in a textual form and the model should understand the sentiment of the review and automate a result. 
